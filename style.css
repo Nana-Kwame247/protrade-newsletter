@@ -98,3 +98,12 @@ aside {
 }
 
 /* results */
+
+p {
+  text-align: center;
+  line-height: 2.5;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+}
+
+/* high impact news */
