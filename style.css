@@ -118,6 +118,29 @@ p {
 
 /* promotion */
 
+.insta {
+  width: 550px;
+  height: 280px;
+  margin: 50px;
+  border-radius: 10px;
+  /* background-color: url(./images/instaforex.jpeg) no-repeat center center fixed;
+  background-size: no-repeat;
+  background-size: cover; */
+}
+
+.rules > li {
+  font-family: "Roboto", sans-serif;
+  line-height: 2;
+}
+
+.btn {
+  margin: 10px 180px;
+  text-decoration: none;
+  border: 1px solid #fbbf24;
+  background-color: #fbbf24;
+  padding: 10px;
+}
+
 /* footer */
 
 footer {
