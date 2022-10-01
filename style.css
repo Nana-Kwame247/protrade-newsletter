@@ -15,10 +15,13 @@ body {
 }
 
 header,
-section,
-footer,
-article {
+/* section, */
+footer {
   border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+article {
   margin-bottom: 20px;
 }
 
@@ -30,7 +33,7 @@ header {
 }
 
 section {
-  height: 850px;
+  height: 870px;
 }
 header,
 footer {
@@ -86,10 +89,10 @@ h2 {
 /*  story */
 
 aside {
-  height: 800px;
+  height: 820px;
   width: 45%;
   float: left;
-  border: 3px solid black;
+  border: 3px solid #fef3c7;
   margin: 20px 30px;
   padding: 15px;
   line-height: 1.5;
