@@ -107,3 +107,13 @@ p {
 }
 
 /* high impact news */
+
+.highimpact {
+  padding: 15px;
+}
+.news {
+  height: 650px;
+  width: 630px;
+}
+
+/* promotion */
