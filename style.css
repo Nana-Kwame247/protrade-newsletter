@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap");
+
+* {
+  box-sizing: border-box;
+  /* padding: 0;
+  margin: 0; */
+}
+
+body {
+  border: 4px solid blue;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+header,
+section,
+footer,
+article {
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+header {
+  height: 150px;
+  width: max-content;
+}
+
+header,
+footer {
+  clear: both;
+}
+
+.trade {
+  height: 250px;
+}
+
+.story {
+  height: 250px;
+}
+
+article {
+  height: 750px;
+  width: 50%;
+  float: left;
+}
+
+.highimpact {
+  height: 250px;
+}
+aside {
+  height: 150px;
+}
+footer {
+  height: 150px;
+}
